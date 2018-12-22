@@ -1,0 +1,12 @@
+{
+  "name": "mixer-bot",
+  "version": "0.0.0",
+  "description": "MixerBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  }
+}
